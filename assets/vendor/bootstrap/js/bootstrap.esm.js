@@ -292,7 +292,7 @@ const executeAfterTransition = (callback, transitionElement, waitForTransition =
   }, emulatedDuration);
 };
 /**
- * Return the previous/next element of a list.
+ * Return the /next element of a list.
  *
  * @param {array} list    The list of elements
  * @param activeElement   The active element
