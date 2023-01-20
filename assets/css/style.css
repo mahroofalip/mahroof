@@ -1163,7 +1163,7 @@ a:hover {
   font-weight: 600;
 }
 
-.php-email-form .sent-message {
+ .thankyou_message {
   display: none;
   color: #fff;
   background: #18d26e;
@@ -1172,7 +1172,7 @@ a:hover {
   font-weight: 600;
 }
 
-.php-email-form .loading {
+.loading {
   display: none;
   background: #fff;
   text-align: center;
